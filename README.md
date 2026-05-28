@@ -9,13 +9,13 @@ This project is a **hackathon submission** developed by a team of 5 members. It 
 ---
 
 ## **Table of Contents**
-1. [Introduction]
-2. [Features]
-3. [Tech Stack]
-4. [Setup Instructions]
-5. [How It Works]
-6. [Team Members]
-7. [License]
+Introduction
+Features
+Tech Stack
+Setup Instructions
+How It Works
+Team Members
+License
 
 ---
 
