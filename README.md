@@ -1,23 +1,21 @@
-Here’s a comprehensive `README.md` file for your project. It includes all the necessary details about the project, how to set it up, and how to use it. You can customize it further based on your specific requirements.
 
----
 
 # **AI-Powered Ethical Decision Making Simulations**
 
-![Project Logo/Banner](frontend/static/images/logo.png) <!-- Add a logo or banner if available -->
+
 
 This project is a **hackathon submission** developed by a team of 5 members. It is an AI-powered simulation platform designed to help users practice ethical decision-making in various scenarios. The platform uses **Mistral AI** to provide feedback on user choices, making it an interactive and educational tool.
 
 ---
 
 ## **Table of Contents**
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Setup Instructions](#setup-instructions)
-5. [How It Works](#how-it-works)
-6. [Team Members](#team-members)
-7. [License](#license)
+1. [Introduction]
+2. [Features]
+3. [Tech Stack]
+4. [Setup Instructions]
+5. [How It Works]
+6. [Team Members]
+7. [License]
 
 ---
 
@@ -55,8 +53,8 @@ In today's world, ethical decision-making is crucial in both personal and profes
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/github-harsha63/GenAI-Ethical-Evaluation-Game.git
+   cd GenAI-Ethical-Evaluation-Game
    ```
 2. Install the required dependencies:
    ```bash
@@ -150,11 +148,11 @@ To run with gemini : With same main.py in repository, Just write your gemini api
 
 ## **Team Members**
 This project was developed by a team of 5 members:
-1. Vemula Harshavardhan Reddy: Role (e.g., Frontend Developer)
-2. Hemanth: Role (e.g., Backend Developer)
-3. Ganesh: Role (e.g., AI Integration Specialist)
-4. Rushikesh: Role (e.g., UI/UX Designer)
-5. **Member 5**: Role (e.g., Project Manager)
+1. Vemula Harshavardhan Reddy
+2. Hemanth Nagasai
+3. Ganesh Kasturi
+4. Rushikesh
+5. Srikar 
 
 ---
 
@@ -172,8 +170,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## **Contact**
 For any questions or feedback, feel free to reach out to us:
-- **Email**: team@example.com
-- **GitHub**: [Your Repository Link](https://github.com/your-username/your-repo-name)
+- **Email**: harhsavemula55@gmail.com
+- **GitHub**: (https://github.com/github-harsha63)
 
 ---
 
@@ -181,11 +179,3 @@ Enjoy using the **AI-Powered Ethical Decision Making Simulations**! 🚀
 
 ---
 
-### **Screenshots**
-<!-- Add screenshots of your project here if available -->
-![Screenshot 1](frontend/static/images/screenshot1.png)
-![Screenshot 2](frontend/static/images/screenshot2.png)
-
----
-
-Let me know if you need further customization or additional sections!
